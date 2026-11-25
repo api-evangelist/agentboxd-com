@@ -66,7 +66,7 @@
 
 Agentboxd provides email inboxes and sign‑in services for AI agents. Its Homingbox product offers AI agents a dedicated email address via a single API call, supporting AI triage, draft approvals, webhooks, WebSockets, SMTP, and MCP. The Shakehand product lets AI agents sign into applications. Additional offerings include aSIM, a SIM card for AI agents. The service is EU‑hosted, currently in public beta, free to start with paid plans forthcoming.
 
-**Areas:** AI · Email · API · Messaging · Beta
+**Areas:** Artificial Intelligence · Email · Messaging · Beta
 
 ## agentboxd-com on APIs.io
 
@@ -100,7 +100,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentboxd Com Agentic Access](https://apis.io/agentic-access/agentboxd-com/agentboxd-com-agentic-access/)
+- [agentboxd-com Agentic Access](https://apis.io/agentic-access/agentboxd-com/agentboxd-com-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -112,7 +112,7 @@ Linked-data contexts for the provider's vocabulary.
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agentboxd Com Openapi Overlay](https://apis.io/overlays/agentboxd-com/agentboxd-com-openapi-overlay/)
+- [agentboxd-com Openapi Overlay](https://apis.io/overlays/agentboxd-com/agentboxd-com-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -124,28 +124,28 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentboxd Com Authentication](https://apis.io/security/agentboxd-com/agentboxd-com-authentication/)
-- [Agentboxd Com Domain Security](https://apis.io/security/agentboxd-com/agentboxd-com-domain-security/)
-- [Agentboxd Com Trust Center](https://apis.io/security/agentboxd-com/agentboxd-com-trust-center/)
-- [Agentboxd Com Vulnerability Disclosure](https://apis.io/security/agentboxd-com/agentboxd-com-vulnerability-disclosure/)
+- [agentboxd-com Authentication](https://apis.io/security/agentboxd-com/agentboxd-com-authentication/)
+- [agentboxd-com Domain Security](https://apis.io/security/agentboxd-com/agentboxd-com-domain-security/)
+- [agentboxd-com Trust Center](https://apis.io/security/agentboxd-com/agentboxd-com-trust-center/)
+- [agentboxd-com Vulnerability Disclosure](https://apis.io/security/agentboxd-com/agentboxd-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentboxd Com Scopes](https://apis.io/scopes/agentboxd-com/agentboxd-com-scopes/)
+- [agentboxd-com Scopes](https://apis.io/scopes/agentboxd-com/agentboxd-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentboxd Com Plans Pricing](https://apis.io/plans/agentboxd-com/agentboxd-com-plans-pricing/)
+- [agentboxd-com Plans Pricing](https://apis.io/plans/agentboxd-com/agentboxd-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentboxd Com Rate Limits](https://apis.io/rate-limits/agentboxd-com/agentboxd-com-rate-limits/)
+- [agentboxd-com Rate Limits](https://apis.io/rate-limits/agentboxd-com/agentboxd-com-rate-limits/)
 
 ## Where to find this API
 
@@ -167,25 +167,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 60.0** — strong · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 56.8** — strong · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 51.8 |
-| Contract governance | 70.9 |
-| Operational transparency | 55.8 |
+| Discoverability | 75.0 |
+| Contract quality | 54.8 |
+| Contract governance | 19.7 |
+| Operational transparency | 52.4 |
 | Developer ergonomics | 46.9 |
-| Access clarity | 60.5 |
+| Access clarity | 61.7 |
 
-**Agent readiness 43.9** — agent-ready (gated down from agent-native)
+**Agent readiness 35.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | documented (partial credit) |
 | Error Semantics | verified |
@@ -203,6 +203,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 36.4** — Horizontal (data, software, accessibility, platform)
 
